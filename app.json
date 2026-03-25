@@ -1,7 +1,7 @@
 {
   "name": "KHAN-MD",
   "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://files.catbox.moe/neni8p.jpg",
+  "logo": "https://files.catbox.moe/t5hs3i.jpg",
   "keywords": ["KHAN-MD"],
   "success_url": "/",
   "stack": "container",
@@ -9,12 +9,12 @@
     "SESSION_ID": {
       "description": "Put the session-id here. (Required)",
       "required": true,
-      "value": ""
+      "value": "IK~H4sIAAAAAAAAA5VU27KiOhD9l7xqjXIHq3bVAcG7oNu7p+YhQsDIJZgEEKf89ymcfZmHOVP78BQ63b1Wd6/OD5ARzNAU1aD3A+QUl5Cj5sjrHIEesIowRBS0QQA5BD3gWcGcMWtaGKNgUI2S8DjYuHW0uieT4JpQj7+6+7Mlbk6j6gU82iAvTgn2/5Jw7lXxjhad0xhtPSwrhZW0rIu7O51lSyUKDsVa6mTCWDPlF/BoMkJMcRY5+RmliMJkiuoFxPRr9LGXwm00PVvHm0yGauhvsH3TxCjKLcvD8YhIGkm3buxvyNfoYzXeMfF+oqOW1y3D/URRpBYi9xBnF82RQy89EJrslXrzRp/hKEPBOEAZx7z+ct8P3qW8727MvtfhYEXVjSbadVRc7+vhcroqXueLxX7AbzM21L9G3EbhULZFKshd+1KqfObwi2OZN7PcqGV1oNcJl+KdTvvPTnwQX9B3rcT/p++el7m7wlgZpezl8XS/vBbKZRlDu+wut3K0XutkNF/XG5RGX6Pf0fs+d0nmHo7H5NjZ0t1cG4TaEN5nflImdjE7++XopB/S6pM+5AX9G8u57htLlq0H21CLO/rWGUZSJa1bG2egC4POzJPEs4rpOKmE3cU+CMqrd7qr/rxez6YzErXwbILPQz0YJivdH6QT3Rs6ZvTyrChG9TgAPeHRBhRFmHEKOSZZY5OMNoBBuUI+RfzZXdCvOlGl1eeUDpbOMS07kbNKTsdXuBWS65SE/s30rS4p1XrzAtogp8RHjKFghBkntJ4jxmCEGOj9+70NMnTjv+bWoOmC1AYhpoxvsiJPCAzep/pxC32fFBlf1Znfbw6Igl7304w4x1nEmkYWGaT+GZeof4acgV4IE4Y+SkQUBW+2j+gmKkAc4oQ1dY4XR8a6jjNX5xddHg5NJzL7kQk+0d7n9qsx+HSMwjyKpM5WDGXtZorX8j7iregyvLExEavppWuH+/XAjl7+kAT0wOI0QdtjEneWV7RLarzuOtpWw1pnqscI+eeVW5XjYixUQ1tTJvddeon9eHtXtP1cWMCJ0Y1dS1/cYGsqqRNtSgreN+zlS4MWoBL76HcwPg2MbYRJnC3wayp6sTLSV9BnW9G3Jmk1OoeWZ5D0NMnuC20nhkrlkFnuhIot2xAil24Gp9EGXlsXsvRkreVKw771pqj0KWUcgB4wRKmrCapkiKrSU/5h36pmHDDPv2WIgzZInl6q3BUV2VANWdf0xq8xv69G8vYk4adqmrzNb4jRc8Mz2KD9OcN73Y18uo/2b5FvL8V/bJt1SMXDSD2M3Y4QZC1PX7pXqt+0kIxv7NSfuqxPDFMSurelDB6P722QJ5CHhKagB2AWUPIEp6Ro5DjOQvIXsL65GffNqN/Um0DGzU+Jr3GKGIdpDnqCpsmypBma8MtrQUk+guwMekBKE+GyAm2Q1maerzjk7ysDzOazhAQ8fgLZticRTgcAAA=="
     },
     "PREFIX": {
       "description": "Bot prefix (Default: .)",
       "required": false,
-      "value": "."
+      "value": "!"
     },
     "BOT_NAME": {
       "description": "Your bot name (Default: KHAN-MD)",
@@ -29,12 +29,12 @@
     "OWNER_NUMBER": {
       "description": "Owner WhatsApp number without + (Default: 923427582273)",
       "required": false,
-      "value": "923427582273"
+      "value": "923216046022"
     },
     "OWNER_NAME": {
       "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "Mudassar Khan :)"
     },
     "AUTO_REPLY": {
       "description": "Auto reply to messages: true/false (Default: false)",
@@ -149,7 +149,7 @@
     "BOT_MEDIA_URL": {
       "description": "Bot media URL",
       "required": false,
-      "value": "https://files.catbox.moe/7zfdcq.jpg"
+      "value": "https://files.catbox.moe/t5hs3i.jpg"
     },
     "AUTO_DOWNLOADER": {
       "description": "Auto downloader: true/false (Default: false)",
@@ -164,7 +164,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*;)*"
     }
   },
   "buildpacks": [
